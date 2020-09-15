@@ -967,6 +967,30 @@ It is advised that you write yours first before looking at others'.</p>
 </tbody>
 </table>
 
+Here are some of the best resources to learn almost all CP concepts -
+
+“https://codeforces.com/edu/courses 6”
+“https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ 12”
+“https://www.youtube.com/user/MrHulasingh25 6”
+“https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig 5”
+“https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw 5”
+“https://www.youtube.com/user/purpongie 4”
+“https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg 5”
+“https://www.youtube.com/channel/UCXbCohpE9IoVQUD2Ifg1d1g 3”
+“https://www.geeksforgeeks.org/”
+“https://www.youtube.com/user/Luvv1412 2”
+“https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q 4”
+“https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ 3”
+“https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw 5”
+“https://www.youtube.com/channel/UCMQyrxzurxDvHI5JXdsO6GQ 4”
+“https://www.youtube.com/channel/UCICWIYEx2mo4wYZzLwJ7wVw 3”
+“https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g 3”
+“https://codeforces.com/blog/entry/82217 7”
+“https://www.youtube.com/channel/UC0PYAh68WLY69tMXCzPKpLA 6”
+PS: In this blog please don’t post any comment other than sharing resource it’s a request, and if u have good resources then please share.
+
+This blog is for future purposes too so that no one has to search on all over the internet , and here is a compiled sheet of all possible resources.
+
 <h4>
 <a id="problem-classifiers" class="anchor" href="#problem-classifiers" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Problem Classifiers</h4>
 
